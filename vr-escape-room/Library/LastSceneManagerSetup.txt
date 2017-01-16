@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_Scenes/paavon_test_scene.unity
-  isLoaded: 1
-  isActive: 1
