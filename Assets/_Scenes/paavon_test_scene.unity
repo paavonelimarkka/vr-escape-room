@@ -391,6 +391,21 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Mass
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Drag
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
   m_IsPrefabParent: 0
@@ -513,6 +528,21 @@ Prefab:
     - target: {fileID: 1298691387431276, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
       propertyPath: m_Name
       value: tuoli
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Mass
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Drag
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
@@ -1026,7 +1056,6 @@ GameObject:
   m_Component:
   - component: {fileID: 580927416}
   - component: {fileID: 580927417}
-  - component: {fileID: 580927419}
   - component: {fileID: 580927418}
   m_Layer: 0
   m_Name: ovi_trigger
@@ -1068,21 +1097,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 580927415}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8bb563c4e716d2c4181e187d9be248db, type: 3}
+  m_Script: {fileID: 11500000, guid: 4acacf6af2925ef43917a7153ee6995f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   ovi: {fileID: 295659067}
---- !u!114 &580927419
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 580927415}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b93b6a877adcbf94c89a9d6e0c0e844d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &583476004
 Prefab:
   m_ObjectHideFlags: 0
@@ -1920,6 +1938,21 @@ Prefab:
       propertyPath: m_LocalEulerAnglesHint.y
       value: 210
       objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Mass
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Drag
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
   m_IsPrefabParent: 0
@@ -2449,6 +2482,21 @@ Prefab:
     - target: {fileID: 4364088371401144, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 178.824
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Mass
+      value: 2000
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_AngularDrag
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 54107472866844818, guid: ca8d2f2a26bc8aa46ae6baec09b17427,
+        type: 2}
+      propertyPath: m_Drag
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ca8d2f2a26bc8aa46ae6baec09b17427, type: 2}
